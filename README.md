@@ -5,6 +5,6 @@ link resource : https://drive.google.com/drive/folders/18HY4CZpmctz2qLQgUAhfsuTS
 
 Download resource dan sejajarkan file resource dengan directory utama (file dicedu.py dan lainnya)
   
-How to run:  
+How to run:
 1. Install pygame library (pip install pygame)
 2. Run dicedu.py
